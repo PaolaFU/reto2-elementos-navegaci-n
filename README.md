@@ -25,6 +25,15 @@ Identificar los elementos de navegación en los siguientes sites.
 
 ![github](assets/img/github/imagen9.jpg)
 
+## Medium
+
+![medium](assets/img/medium/imagen10.jpg)
+
+![medium](assets/img/medium/imagen11.jpg)
+
+![medium](assets/img/medium/imagen12.jpg)
+
+
 
 
 

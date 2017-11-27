@@ -3,6 +3,13 @@
 
 Identificar los elementos de navegación en los siguientes sites.
 
+   * Breather
+
+   * Github
+
+   * Medium
+   
+
 ## Breather
 
 ![Breather](assets/img/breather/imagen1.jpg)
